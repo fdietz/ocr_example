@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 opencv-python = "*"
 pytesseract = "*"
+pdf2image = "*"
+numpy = "*"
+langdetect = "*"
+langcodes = "*"
 
 [dev-packages]
 
